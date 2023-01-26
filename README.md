@@ -19,9 +19,8 @@
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
-# [project_name] <a name="about-project"></a>
-> a decorative picture or a screenshot of the project results.
-> a discription of project in about a paragraph.
+# [Emotion Detection] <a name="about-project"></a>
+> in this project we detect emotion through text. 
 
 ## Built With <a name="built-with"></a>
 
@@ -47,6 +46,16 @@ In order to run this project you need:
 
 ```sh
  !pip install tensorflow
+ !pip install pandas
+ !pip install nltk
+ !pip install matplotlib
+ !pip install seaborn 
+ !pip install sklearn 
+ !pip install parsivar
+ !pip install numpy
+ !pip install sklearn
+ !pip install urlextract
+ !pip install emojis
 ```
 
 ### Setup
@@ -55,14 +64,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
-
-### Install
-
-Install this project with:
-```sh
-something
+  git clone git@github.com:AmirRezaEskandarani/emotion-detection.git
 ```
 
 
@@ -84,18 +86,11 @@ something
 
 ## Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-**Author1**
 
-- GitHub: [@githubhandle](https://github.com/test)
-- Twitter: [@twitterhandle](https://twitter.com/test)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/test)
+- GitHub: [@githubhandle](https://github.com/AmirRezaEskandarani)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/amirreza-eskandarani/)
 
-**Author2**
 
-- GitHub: [@githubhandle](https://github.com/test)
-- Twitter: [@twitterhandle](https://twitter.com/test)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/test)
 
 
 ## Future Features <a name="future-features"></a>
@@ -119,7 +114,7 @@ If you like this project please give us a ⭐
 
 ## Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> I would like to thank Ms.Arshiya, Ms.Noori, Mr.Eskandarani, and Mr. Jafari for their help and support during this project
 
 I would like to thank...
 
