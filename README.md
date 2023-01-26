@@ -19,26 +19,18 @@
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
-# [Emotion Detection] <a name="about-project"></a>
-> in this project we detect emotion through text. 
+# Emotion Detection <a name="about-project"></a>
+> in this project we detect emotions through text and used emotions are : FEAR, SAD, SURPRISE, SURPRISE, HAPPY, HATE, ANGRY, OTHER 
 
 ## Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
+For this project, we use pandas for data analysis and data cleaning. also, we use Hazm for data cleaning. We used to plot with seaborn and matplotlib. We used Tensorflow to implement LSTM model.
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-## Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-To get a local copy up and running, follow these steps.
+- **Simplicity**
+- **Easy to run**
 
 ### Prerequisites
 
@@ -70,25 +62,18 @@ Clone this repository to your desired folder:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following :
 
 ```sh
-something
+Just run the model.ipynb whole file
 ```
 
-### Run tests
 
-To run tests, run the following command:
-
-```sh
-something
-```
-
-## Authors <a name="authors"></a>
+## Author <a name="authors"></a>
 
 
-- GitHub: [@githubhandle](https://github.com/AmirRezaEskandarani)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/amirreza-eskandarani/)
+- GitHub: [@AmirRezaEskandarani](https://github.com/AmirRezaEskandarani)
+- LinkedIn: [amirreza-eskandarani](https://linkedin.com/in/amirreza-eskandarani/)
 
 
 
@@ -96,9 +81,9 @@ something
 ## Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **will be trained on new data**
+- [ ] **will increase the accuracy and perfirmance of the model**
+- [ ] **will use new models and architectures of ANN**
 
 ## Contributing <a name="contributing"></a>
 
@@ -114,10 +99,7 @@ If you like this project please give us a ⭐
 
 ## Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank Ms.Arshiya, Ms.Noori, Mr.Eskandarani, and Mr. Jafari for their help and support during this project
-
-I would like to thank...
-
+I would like to thank Ms.Arshiya, Ms.Noori, Mr.Mohajeri, and Mr.Jafari for their help and support during this project
 ## License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
